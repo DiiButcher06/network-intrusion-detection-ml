@@ -1,5 +1,4 @@
 # network-intrusion-detection-ml
-Network Intrusion Detection &amp; Zero-Day Threat Classification System using Supervised ML.
 Network Intrusion Detection & Zero-Day Threat Classification System
 Group Members:
 1. Rodgers Kipkirui: SKIRRO2411
