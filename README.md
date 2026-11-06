@@ -131,7 +131,4 @@ dataset is imbalanced.
   separated traffic, monitor inference latency, and investigate drift-aware
   retraining and carefully controlled deployment.
 
-## 10. GitHub
 
-After adding the source files and committing them, publish the repository and
-include its URL in the final project document.
